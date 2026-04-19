@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358582698343",
+    "project_id": "safespace-chattingapp",
+    "storage_bucket": "safespace-chattingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358582698343:android:0ef529d8a84f336010efc2",
+        "android_client_info": {
+          "package_name": "com.example.safe_space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkNqByJuB02sIuYmuNgGQTW9VxulhSzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
